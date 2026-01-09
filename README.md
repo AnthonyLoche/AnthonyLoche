@@ -15,6 +15,7 @@
 ### 🚀 Main Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django)
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js)
 
 ---
 
