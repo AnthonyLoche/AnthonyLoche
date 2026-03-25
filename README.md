@@ -24,6 +24,7 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows)
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux)
 
 ---
 
